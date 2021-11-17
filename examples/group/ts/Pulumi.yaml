@@ -1,0 +1,3 @@
+name: googleworkspace-ts
+runtime: nodejs
+description: A minimal TypeScript Pulumi program to create a Google Workspace resource
